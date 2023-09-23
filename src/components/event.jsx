@@ -11,6 +11,7 @@ const Event = (props) => {
         />}
       <h5>{props.name}</h5>
       <h6>📍 {props.location}</h6>
+      <h5><button > View Menu </button></h5>
     </td>
   )
 }
